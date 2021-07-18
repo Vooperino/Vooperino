@@ -1,6 +1,6 @@
 ### Lets move on the next question please. 🤔
 
-I'm a Java, C# developer, System Administrator, Networking (MikroTik and others), Server Maintenance and so on.
+I'm a Java, Kotlin, C# developer, System Administrator, Networking (MikroTik and others), Server Maintenance and so on.
 
 A glass a whiskey is a magic for everything
 
